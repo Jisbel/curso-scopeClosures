@@ -1,2 +1,2 @@
 # curso-scopeClosures
-Aqui aprendi como funciona el scope, closures y el hosting
+Con este curso estoy aprendiendo el uso de los distintos scope, closures, hoisting y hace debugin
